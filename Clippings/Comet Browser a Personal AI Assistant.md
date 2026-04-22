@@ -1,4 +1,4 @@
-## A new browser from Perplexity
+# A new browser from Perplexity
 
 ## The browser that works for you
 
